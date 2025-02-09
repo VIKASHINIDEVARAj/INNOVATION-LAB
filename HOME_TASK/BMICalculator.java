@@ -1,24 +1,2 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Deleted BMICalculator.java
   
