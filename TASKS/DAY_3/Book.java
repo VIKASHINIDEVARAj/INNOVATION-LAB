@@ -15,7 +15,11 @@ public class Book {
     }
 
     public static void main(String args[]) {
+<<<<<<< HEAD
         Book book1 = new Book();  // Default Constructor
+=======
+        Book book1 = new Book(); 
+>>>>>>> d4b784a1a2afeb66c2a26fd79cea05049f33afe4
         Book book2 = new Book("Little Women", "Louisa May Alcott");
         Book book3 = new Book("1984", "George Orwell");
         Book book4 = new Book("To Kill a Mockingbird", "Harper Lee");
